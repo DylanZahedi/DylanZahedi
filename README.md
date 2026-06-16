@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I’m a developer, security enthusiast, and professional “what happens if I do this?” tester.<br><br>I don’t like staying in a single lane. If an idea is interesting, challenging, or simply too good to ignore, I’ll probably end up building it—whether it’s a security tool, an AI project, a piece of automation, or something completely unexpected.<br><br>I enjoy understanding how systems work, how they fail, and how to make them do something they weren’t originally designed to do.<br><br>Curiosity drives the research. Coding turns it into reality.</p>
+<p align="left">I’m a security enthusiast, developer, and professional “what happens if I do this?” tester.<br><br>I don’t like staying in a single lane. If an idea is interesting, challenging, or simply too good to ignore, I’ll probably end up building it—whether it’s a security tool, an AI project, a piece of automation, or something completely unexpected.<br><br>I enjoy understanding how systems work, how they fail, and how to make them do something they weren’t originally designed to do.<br><br>Curiosity drives the research. Coding turns it into reality.</p>
 
 ###
 
